@@ -1,4 +1,4 @@
-# Full-Stack Developer Roadmap (2024 Edition)
+#  Full-Stack Developer Roadmap 
 
 ---
 
