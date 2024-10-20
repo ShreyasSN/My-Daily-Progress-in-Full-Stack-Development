@@ -28,9 +28,7 @@
 
 ### State Management
 - [ ] **Redux / Redux Toolkit**
-- [ ] **Zustand**
 - [ ] **React Query** (or TanStack Query for server-state management)
-- [ ] **MobX**
 
 ### Modern Development Tools
 - [ ] **Webpack**, **Vite**: Module bundlers for optimizing web apps
@@ -71,6 +69,7 @@
 - [ ] **NoSQL Databases**: MongoDB, Cassandra, Redis
 - [ ] **Graph Databases**: Neo4j, ArangoDB
 - [ ] **Database Scaling**: Sharding, Replication
+- [ ] **MongoDB**
 
 ### APIs
 - [ ] **RESTful APIs**: Design and Implementation
