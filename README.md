@@ -4,14 +4,14 @@
 
 ## 1. Front-End Development
 
+### Version Control
+- [ ] **Git**: Branching, Pull Requests, Rebase, Merge Conflicts
+- [ ] **GitHub/GitLab/Bitbucket**
+
 ### Fundamentals
 - [ ] **HTML5**: Semantics, Accessibility
 - [ ] **CSS3**: Flexbox, Grid, Responsive Design, Animations
 - [ ] **JavaScript (ES6+)**: Arrow Functions, Promises, Async/Await, Modules
-
-### Version Control
-- [ ] **Git**: Branching, Pull Requests, Rebase, Merge Conflicts
-- [ ] **GitHub/GitLab/Bitbucket**
 
 ### Responsive & Modern Design
 - [ ] **CSS Frameworks**: Bootstrap, Tailwind CSS
