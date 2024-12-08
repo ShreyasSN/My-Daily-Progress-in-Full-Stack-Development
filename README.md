@@ -11,7 +11,7 @@
 ### Fundamentals
 - [x] **HTML5**: Semantics, Accessibility
 - [x] **CSS3**: Flexbox, Grid, Responsive Design, Animations
-- [ ] **JavaScript (ES6+)**: Arrow Functions, Promises, Async/Await, Modules
+- [x] **JavaScript (ES6+)**: Arrow Functions, Promises, Async/Await, Modules
 
 ### Responsive & Modern Design
 - [ ] **CSS Frameworks**: Bootstrap, Tailwind CSS
