@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tab Image and Content Switcher</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container-education">
+        <div class="tabs-education">
+          <input type="radio" id="radio-education-1" name="tabs-education" checked />
+          <label class="tab" for="radio-education-1">B.Tech</label>
+    
+          <input type="radio" id="radio-education-2" name="tabs-education" />
+          <label class="tab" for="radio-education-2">Higher Secondary</label>
+    
+          <input type="radio" id="radio-education-3" name="tabs-education" />
+          <label class="tab" for="radio-education-3">Secondary</label>
+    
+          <span class="glider"></span>
+        </div>
+    
+        <div class="tab-content" id="content-radio-education-1">
+          <img src="assets/btech.jpg" alt="B.Tech Image" class="full-size-image" />
+          <p>This is the B.Tech content.</p>
+        </div>
+        <div class="tab-content" id="content-radio-education-2">
+          <img src="assets/higher-secondary.jpg" alt="Higher Secondary Image" class="full-size-image" />
+          <p>This is the Higher Secondary content.</p>
+        </div>
+        <div class="tab-content" id="content-radio-education-3">
+          <img src="assets/secondary.jpg" alt="Secondary Image" class="full-size-image" />
+          <p>This is the Secondary content.</p>
+        </div>
+    </div>
+      
+    <script src="script.js"></script>
+</body>
+</html>
