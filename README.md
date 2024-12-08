@@ -21,7 +21,7 @@
 
 ### JavaScript Frameworks / Libraries
 - [ ] **React.js**: Functional Components, Hooks, Context API, React Router
-- [ ] **Next.js**: React Framework for SSR and SSG (Highly demanded)
+- [ ] **Next.js**: React Framework for SSR and SSG
 - [ ] **Vue.js**: Vue Router, Vuex
 - [ ] **Svelte**: Lightweight and fast front-end framework
 - [ ] **Angular**: Advanced TypeScript-based framework
@@ -33,7 +33,6 @@
 ### Modern Development Tools
 - [ ] **Webpack**, **Vite**: Module bundlers for optimizing web apps
 - [ ] **ESLint**: Linting for JavaScript code
-- [ ] **Prettier**: Code formatting
 
 ### Testing & Debugging
 - [ ] **Jest**: Unit testing for JavaScript
@@ -66,8 +65,8 @@
 
 ### Databases
 - [ ] **SQL Databases**: MySQL, PostgreSQL
-- [ ] **NoSQL Databases**: MongoDB, Cassandra, Redis
-- [ ] **Graph Databases**: Neo4j, ArangoDB
+- [ ] **NoSQL Databases**: MongoDB, Redis
+- [ ] **Graph Databases**: Neo4j
 - [ ] **Database Scaling**: Sharding, Replication
 - [ ] **MongoDB**
 
@@ -123,7 +122,6 @@
 - [ ] **Amazon Web Services (AWS)**: EC2, S3, RDS, Lambda, IAM, Route53
 - [ ] **Microsoft Azure**: Virtual Machines, Blob Storage, Functions
 - [ ] **Google Cloud Platform (GCP)**: Compute Engine, Cloud Functions, BigQuery
-- [ ] **DigitalOcean**
 
 ### Monitoring & Logging
 - [ ] **Prometheus**: Monitoring system
